@@ -1,3 +1,5 @@
 steps:
   - name: Use a public action
-    uses: actions/checkout@v3
+    uses: actions/checkout@v3 - general
+    #uses: actions/checkout@c2c1744e079e0dd11c8e0af4a96064ca4f6a2e9e  - more secure option
+    
