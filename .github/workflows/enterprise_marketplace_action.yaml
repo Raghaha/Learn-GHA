@@ -1,0 +1,3 @@
+steps:
+  - name: Use an enterprise marketplace action
+    uses: enterprise-org/action-name@v1
