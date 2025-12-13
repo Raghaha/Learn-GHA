@@ -1,0 +1,3 @@
+steps:
+  - name: Use a public action
+    uses: actions/checkout@v3
