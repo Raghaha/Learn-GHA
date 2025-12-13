@@ -1,0 +1,3 @@
+steps:
+  - name: Run a Docker action
+    uses: docker://<docker-image-name>:<tag>
