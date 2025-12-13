@@ -1,0 +1,3 @@
+steps:
+  - name: Use a local action
+    uses: ./path-to-action
